@@ -1,0 +1,55 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nty/global/}
+  \entry{hunter_inside_2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HI}{%
+         family={Hunter},
+         familyi={H\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HI1}
+    \strng{fullhash}{HI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Inside the horrific unregulated sweatshops of {Bangladesh}}
+    \verb{url}
+    \verb http://www.dailymail.co.uk/news/article-3339578/Crammed-squalid-facto
+    \verb ries-produce-clothes-West-just-20p-day-children-forced-work-horrific-
+    \verb unregulated-workshops-Bangladesh.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/Rayson/Library/Application Support/Zotero/Profiles/xj
+    \verb gjstmx.default/zotero/storage/RRIAK4HH/Crammed-squalid-factories-prod
+    \verb uce-clothes-West-just-20p-day-children-forced-work-horrific-unreg.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Daily Mail}
+    \field{month}{11}
+    \field{year}{2015}
+    \field{urlday}{24}
+    \field{urlmonth}{06}
+    \field{urlyear}{2016}
+  \endentry
+\endsortlist
+\endinput

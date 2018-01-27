@@ -1,0 +1,16 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{\numberline {1}Math Magic}{1}
+\contentsline {subsection}{\numberline {1.1}First Amazing Equation}{1}
+\contentsline {subsection}{\numberline {1.2}Some Explaining To Do}{1}
+\contentsline {subsection}{\numberline {1.3}Playing With Matrice}{1}
+\contentsline {subsection}{\numberline {1.4}Random Einstein}{2}
+\contentsline {subsubsection}{\numberline {1.4.1}Multiple Figures!}{3}
+\contentsline {section}{\numberline {2}More Features}{4}
+\contentsline {subsection}{\numberline {2.1}Table}{4}
+\contentsline {subsection}{\numberline {2.2}Drawing with Tikz}{4}
+\contentsline {subsection}{\numberline {2.3}Trees}{5}
+\contentsline {subsection}{\numberline {2.4}Probability Tree}{5}
+\contentsline {subsection}{\numberline {2.5}Circuits}{6}
+\contentsline {subsection}{\numberline {2.6}More Circuits!}{6}
+\contentsline {section}{\numberline {3}Appendix}{7}
+\contentsline {section}{\numberline {A}Bibliography}{8}
